@@ -52,3 +52,11 @@ nav{
 a{
     color: #006969;
 }
+#h2{
+    border-bottom: 1px solid paleturquoise; 
+    padding-bottom: 10px;
+}
+#link-fresh > p{
+    margin-bottom: 0; 
+    color: red;
+}
